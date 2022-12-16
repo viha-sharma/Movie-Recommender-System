@@ -26,7 +26,7 @@ Each movie recommendation includes the movie title, poster, overview, release da
 
 ## Steps to run my website on your local server:
 
-(i) Ensure you run the ipynb to obtain the similarity.pkl file and put it in the same folder as other files.   
+(i) Ensure you run the ipynb file to obtain the similarity.pkl file and put it in the same folder as other files.   
 (ii) Open your anaconda command prompt and run the following lines of code:  
 
 -> cd <folder path>
