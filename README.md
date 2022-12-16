@@ -1,2 +1,11 @@
 # Movie-Recommender-System-
-This is a content based recommender system that uses Natural Language Processing to provide the top 5 movie recommendations based on a movie selected by the user. 
+
+A content based recommender system provides recommendations based on the similarity of content between two itmes, in this project's case- two movies. 
+
+# Project Objective
+
+# Technologies used
+
+1. Seaborn
+2. 
+
