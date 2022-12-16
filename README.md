@@ -10,7 +10,7 @@ The user interface of the website is displayed below:
 
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/106082126/208078054-10c4f1f7-a9bb-4ef1-aa7e-ac45aca658d1.png">
 
-Each movie recommendation includes the movie title, poster, overview, release date, rating, cast, director, keywords, genres, budget and revenue. 
+Each movie recommendation includes the movie title, poster, overview, release date, rating, runtime, cast, director, keywords, genres, budget and revenue. 
 
 <img width="1026" alt="image" src="https://user-images.githubusercontent.com/106082126/208078151-1d698d33-c34f-47d5-a462-e5dac697184f.png">
 
