@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-A content based recommender system provides recommendations based on the similarity of content between two itmes, in this project's case- two movies. 
+A content based recommender system provides recommendations based on the similarity of content between two items, in this project's case- two movies. 
 
 The recommender uses natural language processing and cosine similarity to determine and generate 5 movie recommendations based on a selected movie. The TMDB API has been used to extract additional information about the 5000 movies in the TMDB database. 
 
